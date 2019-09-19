@@ -21,6 +21,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/npm/cli.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",

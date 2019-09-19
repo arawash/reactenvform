@@ -1,6 +1,12 @@
 import React from 'react'
 import { useState } from 'react'
 import Switch from '@material-ui/core/Switch/';
+import Pickers from '@material-ui/pickers';
+import {
+  MuiPickersUtilsProvider,
+  KeyboardTimePicker,
+  KeyboardDatePicker,
+} from '@material-ui/pickers';
 // import Typography from '@material-ui/core/Typography';
 // import lll from '@material-ui/core/Paper/Paper';
 import { makeStyles } from '@material-ui/core/styles';
@@ -39,6 +45,13 @@ import { StylesProvider, jssPreset } from '@material-ui/styles';
 import { createMuiTheme } from '@material-ui/core/styles';
 import { ThemeProvider } from '@material-ui/styles';
 // ............................................................
+
+const [selectedDate, setSelectedDate] = React.useState(new Date('2014-08-18T21:11:54'));
+
+function handleDateChange(date) {
+  setSelectedDate(date);
+}
+
 // Configure JSS
 
 const theme = createMuiTheme({
@@ -125,8 +138,8 @@ const Test = () => {
                 id="outlined-name"
                 name="Name" label="الاسم"
                 className={classes.textField}
-                margin="dense" 
-                onChange={onChange}/>
+                margin="dense"
+                onChange={onChange} />
               <FormControl>
                 <TextField
                   type="text"
@@ -135,10 +148,23 @@ const Test = () => {
                   name="kind"
                   margin="dense"
                   label="النوع"
-                  variant="outlined" 
+                  variant="outlined"
                   onChange={onChange}
-                  />
+                />
               </FormControl>
+              <KeyboardDatePicker
+                disableToolbar
+                variant="inline"
+                format="MM/dd/yyyy"
+                margin="normal"
+                id="date-picker-inline"
+                label="Date picker inline"
+                value={selectedDate}
+                onChange={handleDateChange}
+                KeyboardButtonProps={{
+                  'aria-label': 'change date',
+                }}
+              />
               <TextField
                 type="text"
                 defaultValue=""
@@ -158,16 +184,16 @@ const Test = () => {
                 margin="dense"
                 onChange={onChange}
                 variant="outlined" />
-              <FormControlLabel 
-              control={<Switch />} 
-              name="مخالف" 
-              checked=""
-              value =""
-              onChange={onChange}              
-              label="مخالف" />
-            <Select>
-              
-            </Select>
+              <FormControlLabel
+                control={<Switch />}
+                name="مخالف"
+                checked=""
+                value=""
+                onChange={onChange}
+                label="مخالف" />
+              <Select>
+
+              </Select>
               {/* <FormControl>
                 <FormLabel>الحالة</FormLabel>
                 <RadioGroup onChange={onChange}>
@@ -176,25 +202,25 @@ const Test = () => {
                   <FormControlLabel onChange={onChange} value="sssddAA" control={<Radio />} name="متوقف" label="متوقف" />
                 </RadioGroup>
               </FormControl> */}
-              <TextField 
-              type="number" 
-              defaultValue="" 
-              name="latitude" 
-              label="latitude:." 
-              id=" new-todo" 
-              variant="outlined"
+              <TextField
+                type="number"
+                defaultValue=""
+                name="latitude"
+                label="latitude:."
+                id=" new-todo"
+                variant="outlined"
                 // onChange={handleChange}
                 onChange={onChange}
                 margin="dense" />
-              <TextField 
-              type="number" 
-              name="longitude" 
-              label="longitude" 
-              defaultValue="" 
-              id=" new-todo" 
-              margin="dense" 
-              variant="outlined" 
-              onChange={onChange}
+              <TextField
+                type="number"
+                name="longitude"
+                label="longitude"
+                defaultValue=""
+                id=" new-todo"
+                margin="dense"
+                variant="outlined"
+                onChange={onChange}
               />
               <Button size="large" variant="contained" color="primary">
                 Save<Icon className={classes.rightIcon}>  <Send /></Icon>

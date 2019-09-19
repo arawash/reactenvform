@@ -1,0 +1,645 @@
+<pre><font color="#8AE234"><b>amr@amr-Satellite-C850-A826</b></font>:<font color="#729FCF"><b>~</b></font>$ hestory
+hestory: command not found
+<font color="#8AE234"><b>amr@amr-Satellite-C850-A826</b></font>:<font color="#729FCF"><b>~</b></font>$ history
+    1  ls
+    2  dir
+    3  help
+    4  apt
+    5  apt list
+    6  python
+    7  sudo apt install python3
+    8  sudo apt-get install curl python-software-properties
+    9  npm
+   10  pkg
+   11  dpkg
+   12  apt
+   13  install
+   14  install nodejs
+   15  apt install nodejs
+   16  y
+   17  apt install nodejs
+   18  v
+   19  help
+   20  py
+   21  apt list
+   22  code
+   23  mkdir DoGo
+   24  cd dogo
+   25  ls
+   26  cd Dogo
+   27  cd DoGo
+   28  dir
+   29  ls
+   30  cd.
+   31  cd ..
+   32  cd..
+   33  cd .
+   34  ls
+   35  apt install nodejs
+   36  susu apt install nodejs
+   37  sudu apt install nodejs
+   38  sodu apt install nodejs
+   39  sudo apt install nodejs
+   40  node -v
+   41  sudo apt-get install nodejs
+   42  node -v
+   43  sudo apt-get
+   44  sudo apt-get update nodejs
+   45  sudo apt-get update
+   46  sudo apt-get upgrade node
+   47  sudo apt-get upgrade nodejs
+   48  node -v
+   49  sudo apt-get nodejs/latest
+   50  sudo apt-get nodejs list
+   51  sudo snap install code --classic
+   52  code
+   53  node
+   54  node -v
+   55  npm
+   56  sudo apt install npm
+   57  npm -v
+   58  node -v
+   59  npm install -g npm@latest
+   60  sudo npm install -g nodejs@latest
+   61  node -v
+   62  sudo apt  install -g nodejs@latest
+   63  sudo apt  install  nodejs@latest
+   64  curl -sL http://nsolid-deb.nodesource.com/nsolid_setup_3.x | sudo bash -
+   65  sudo apt-get -y install nsolid-dubnium nsolid-console
+   66  node -v
+   67  npm install -g nativescript
+   68  sudo npm install npm -g
+   69  npm install -g nativescript
+   70  sudo npm install -g nativescript
+   71  tns
+   72  tns create HelloWorld --template tns-template-blank-ng
+   73  cd HelloWorld
+   74  npm 
+   75  code
+   76  tns preview
+   77  ng 
+   78  apt list
+   79  python
+   80  node
+   81  node -v
+   82  npm
+   83  npm list
+   84  npm init
+   85  htttp
+   86  snap
+   87  snap help --all
+   88  python
+   89  python
+   90  nodr
+   91  node
+   92  ruby
+   93  list
+   94  dir
+   95  ls
+   96  node-v10.16.0-linux-x64.tar.xz
+   97  tar xf node-v10.16.0-linux-x64.tar.xz
+   98  nano ~/.profile
+   99  sudo cp -r node/{bin,include,lib,share} /usr/
+  100  sudo cp  node/{bin,include,lib,share} /usr/
+  101  sudo cp  node/ /usr/
+  102  sudo cp -r node/ /usr/
+  103  node -v
+  104  ls
+  105  npm init -y
+  106  npm install -g expess
+  107  npm 
+  108  npm update
+  109  sudo npm update
+  110  npm -v
+  111  node -v
+  112  npm install express --save
+  113  npm
+  114  npm uninstall
+  115  cd /opt/
+  116  tar xf node-v10.1.0-linux-x64.tar.xz
+  117  npm ls
+  118  npm
+  119  cd /
+  120  ls
+  121  $ npm install express --save
+  122  npm
+  123  $ npm install express --save
+  124  $ npm install express 
+  125  $ npm install
+  126  $ npm
+  127  npm
+  128  ~/.profile
+  129  sude ~/.profile
+  130  sudo ~/.profile
+  131  nano ~/.profile
+  132  npm
+  133  node -v
+  134  npm -v
+  135  npm install express --save
+  136  sudo npm install express --save
+  137  sudo npm install nodemon --save
+  138  npm test
+  139  npm install eslint -g
+  140  sudo npm install eslint -g
+  141  npm test
+  142  sudo chown -R $USER:$(id -gn $USER) /home/amr/.config 
+  143  npm i -g @loopback/cli
+  144  sudo npm i -g @loopback/cli
+  145  eslint --init
+  146  sudo  npm install -g jshint
+  147  npm test
+  148  npm test
+  149  npm install bootstrap -g --save
+  150  sudo npm install bootstrap -g --save
+  151  npm test
+  152  sudo npm install bootstrap --save
+  153  npm test
+  154  df
+  155  fdisk
+  156  fdisk 1
+  157  fdisk
+  158  fdisk -l
+  159  npm test
+  160  ng serve
+  161  ng new chat
+  162  sudo ng new chat
+  163  sudo ng new chats
+  164  sudo wireshark
+  165  ddos
+  166  xdg
+  167  xdg-open
+  168  man xdg-open
+  169  npm install -g @angular/cli
+  170  sudo npm install -g @angular/cli
+  171  loopback
+  172  npm test
+  173  ping
+  174  ping 192.168.1.2
+  175  ping 192.168.1.1
+  176  ls
+  177  npm install -g typescript
+  178  sudo npm install -g typescript
+  179  curl http://[::1]:3000/ping
+  180  http://[::1]:3000/ping
+  181  curl http://[::1]:3000/ping
+  182  curl http://[::1]:3000/pi
+  183  curl http://[::1]:3000/ping
+  184  curl http://[::1]:3000/ping/11
+  185  sudo ng new chats
+  186  ng new chats
+  187  ng new chatsa
+  188  sudo ng new chatsaaaaaa
+  189  sudo ng new chat
+  190  ls
+  191  cd chat
+  192  sudo ng new chat
+  193  cd chat
+  194  ls
+  195  npm i -g @loopback/cli
+  196  SUDO npm i -g @loopback/cli
+  197  sudo npm i -g @loopback/cli
+  198  lp4 lb4
+  199  lb4 lb4
+  200  sudo lb4 lb4
+  201  cd lp44
+  202  cd lb44
+  203  npm start
+  204  sudo npm start
+  205  npm start
+  206  npm dbstart
+  207  sudo npm dbstart
+  208  sudo npm test
+  209  ng serve
+  210  ls
+  211  d
+  212  Frame 9962: 214 bytes on wire (1712 bits), 214 bytes captured (1712 bits) on interface 0
+  213  Ethernet II, Src: LiteonTe_fb:75:cd (74:e5:43:fb:75:cd), Dst: IPv4mcast_7f:ff:fa (01:00:5e:7f:ff:fa)
+  214  Internet Protocol Version 4, Src: 192.168.1.7, Dst: 239.255.255.250
+  215  User Datagram Protocol, Src Port: 33841, Dst Port: 1900
+  216  Simple Service Discovery Protocol
+  217  soudo wireshark
+  218  sudo wireshark
+  219  code
+  220  code
+  221  node app.js
+  222  sudo wireshark
+  223  ls
+  224  cd &apos;New Folder&apos;
+  225  ree
+  226  tree
+  227  ls
+  228  cp *
+  229  mkdir a
+  230  sudo mldir 
+  231  sudo mkdir a 
+  232  ls
+  233  cd a
+  234  cd ,
+  235  cd .
+  236  cd ..
+  237  cp * a
+  238  a
+  239  cd a\
+  240  cd a
+  241  cp * a
+  242  ls
+  243  cd ..
+  244  cd *
+  245  cd * /a
+  246  cp * /a
+  247  cp * a
+  248  sudo cp * a
+  249  sudo cp * a -r
+  250  cd a
+  251  ls
+  252  npm test
+  253  npm test
+  254  sudo npm test
+  255  sudo npm build
+  256  sudo build
+  257  bulde
+  258  sudo npm build
+  259  npm run-script build
+  260  sudo npm run-script build
+  261  npm test
+  262  sudo npm test
+  263  npm test
+  264  sudo npm test
+  265  npm test
+  266  npx nodemon
+  267  npx lite-server
+  268  curl localhost:3000
+  269  npx nodemon
+  270  node readline
+  271  curl localhost:3000
+  272  npx nodemon
+  273  sudo us -
+  274  ls
+  275  sudo us
+  276  sudo su -
+  277  ls
+  278  cd .
+  279  cd ./
+  280  cd ../
+  281  ls
+  282  ~
+  283  cd ../
+  284  ~
+  285  ~root
+  286  sudo su -
+  287  npx nodemon
+  288  mv &apos;new folder&apos; &quot; ~/Desktop/8 G&quot;
+  289  mv &apos;new folder&apos;  ~/Desktop/&quot;8 G&quot;
+  290  mv &apos;new folder&apos;  ~/Desktop/&quot;8 G&quot; -r
+  291  mv &apos;new folder&apos;  ~/Desktop/&quot;8 G&quot; requrciv
+  292  mv &apos;new folder&apos;  ~/Desktop/&quot;8 G&quot;
+  293  mv &apos;new folder&apos;  ~/Desktop/&quot;8 G&quot; -r
+  294  mv --help
+  295  mv &apos;new folder&apos;  ~/Desktop/&quot;8 G&quot; -v
+  296  mv &apos;new folder&apos;  ~/Desktop/&quot;8 G&quot; 
+  297  mv &apos;new folder&apos;  ~/Desktop/8G 
+  298  mv &apos;New folder (2)&apos;  ~/Desktop/8G
+  299  mv &apos;New folder (2)&apos;  ~/Desktop/8G -FORSE
+  300  mv --help
+  301  mv &apos;New folder (2)&apos;  ~/Desktop/8G -f
+  302  mv &apos;New folder (2)&apos;  ~/Desktop/8G -u
+  303  cd  ..
+  304  ls
+  305  cd 8G
+  306  nano a.txt
+  307  cd /media/amr
+  308  ls
+  309  curl https://github.com/balena-io/etcher/releases/download/v1.5.52/balena-etcher-electron-1.5.52-linux-x64.zip
+  310  wgit https://github.com/balena-io/etcher/releases/download/v1.5.52/balena-etcher-electron-1.5.52-linux-x64.zip
+  311  wget https://github.com/balena-io/etcher/releases/download/v1.5.52/balena-etcher-electron-1.5.52-linux-x64.zip
+  312  cd /dev
+  313  ls
+  314  sudo unmount /dev/sdb
+  315  sudo umount /dev/sdb
+  316  sudo dd bs=4M if=[u/home/amr/Desktop/8G/.Trashes/New folderHBCD 15.2.iso .iso] of=/dev/sd[that 1 letter]
+  317  sudo dd bs=4M if=[u/home/amr/Desktop/8G/.Trashes/New folder/HBCD 15.2.iso .iso] of=/dev/sd[that 1 letter]
+  318  cd /home/amr/Desktop/8G/.Trashes/New folder
+  319  ~
+  320  cd ~Desktop/8G/.Trashes/New folder
+  321  cd Desktop/8G/.Trashes/New folder
+  322  cd Desktop/8G/.Trashes/&quot;New folder&quot;
+  323  cd ~Desktop/8G/.Trashes/&quot;New folder&quot;
+  324  cd ~Desktop/8G/.Trashes
+  325  cd /home/amr/Desktop/8G/.Trashes
+  326  ls
+  327  cd &apos;New folder&apos;
+  328  sudo dd bs=4M if=[&apos;HBCD 15.2.iso&apos;] of=/dev/sd[that 1 letter]
+  329  sudo dd bs=4M if=[&apos;HBCD 15.2.iso&apos;] of=/dev/sdb
+  330  sudo dd bs=4M if=[./HBCD15.2.iso] of=/dev/sdb
+  331  sudo dd bs=4M if=[.HBCD15.2.iso] of=/dev/sdb
+  332  sudo dd bs=4M if=[HBCD15.2.iso] of=/dev/sdb
+  333  sudo dd bs=4M if=HBCD15.2.iso of=/dev/sdb
+  334  sudo umount /dev/sdb
+  335  sudo dd bs=4M if=HBCD15.2.iso of=/dev/sdb
+  336  nodemon
+  337  nox nodemon
+  338  npx nodemon
+  339  cd server
+  340  node server
+  341  node node
+  342  cd ..
+  343  npm install xlsx
+  344  sudo npm install xlsx
+  345  sudo npm install xlsx --save
+  346  sudo npm install xlsx -g
+  347  sudo npm install xlsx
+  348  sudo npm install xlsxjs
+  349  npm init -y
+  350  npm i xlsx
+  351  npm i express
+  352  sudo npm i express
+  353  sudo npm i nodemon
+  354  sudo npm i formidable
+  355  npm test
+  356  clear
+  357  cleard
+  358  clear
+  359  npm test
+  360  npm run watsh
+  361  clear
+  362  npm run watch
+  363  clear
+  364  npm run watch
+  365  npx create-react-app my-app
+  366  cd my-app
+  367  npm start
+  368  npx create-react-app my-app
+  369  cd my-app
+  370  sudo npx create-react-app my-app
+  371  npm start
+  372  ~
+  373  npm start
+  374  ls
+  375  cp my-app Desktop -r
+  376  cd desktop
+  377  ls
+  378  cd desktop
+  379  npm start
+  380  node -v
+  381  npm -v
+  382  npx -v
+  383  npm install update node
+  384  creat-react-app BC
+  385  create-react-app BC
+  386  npx create-react-app BC
+  387  sudo npx create-react-app BC
+  388  sudo npx create-react-app bc
+  389  cd ..
+  390  sudo npx create-react-app bcc
+  391  sudo npm create-react-app bcc
+  392  sudo create-react-app bcc
+  393  sudo npx create-react-app bc
+  394  nvm install node
+  395  cd ~/
+  396  git clone https://github.com/nvm-sh/nvm.git .nvm
+  397  sudo apt install git
+  398  sudo apt-get install nodejs
+  399  npm install node
+  400  sudo npm install node
+  401  ps aux | grep -i apt
+  402  sudo killall apt apt-get
+  403  ps aux | grep -i apt
+  404  sudo killall apt apt-get
+  405  sudo apt uninstall node 
+  406  sudo apt-get  uninstall node 
+  407  lsof /var/lib/dpkg/lock
+  408  sudo killall apt apt-get
+  409  npm install node
+  410  sudo npm install node
+  411  git 
+  412  sudo spt install git 
+  413  sudo apt install git 
+  414  sudo rm /var/lib/apt/lists/lock
+  415  sudo apt install git 
+  416  sudo rm /var/cache/apt/archives/lock
+  417  sudo rm /var/lib/dpkg/lock
+  418  sudo apt install git 
+  419  sudo rm /var/lib/dpkg/lock-frontend 
+  420  sudo apt install git 
+  421  sudo create-react-app bcc
+  422  sudo npx create-react-app bcc
+  423  nvm install node
+  424  $ npm install -g update-node
+  425  sudo  npm install -g update-node
+  426  node -v
+  427  update-node 10.16.3
+  428  node -v
+  429  cd ..
+  430  sudo npx create-react-app bcc
+  431  node -v
+  432  sudo npm cache clean -f
+  433  VERSION=v10.15.0
+  434  cd /usr/local/lib/nodejs
+  435  ls
+  436  export PATH=/usr/local/lib/nodejs/node-v10.16.3-linux-x64/bin:$PATH
+  437  . ~/.profile
+  438  node -v
+  439  npx -v
+  440  sudo ln -s /usr/local/lib/nodejs/node-v10.16.3-linux-x64/bin/node /usr/bin/node
+  441  sudo ln -s /usr/local/lib/nodejs/node-v10.16.3-linux-x64/bin/npm /usr/bin/npm
+  442  sudo ln -s /usr/local/lib/nodejs/node-v10.16.3-linux-x64/bin/npx /usr/bin/npx
+  443  create-react-app new
+  444  npm create-react-app new
+  445  npx create-react-app new
+  446  git clone https://github.com/formio/formio.git
+  447  npm install
+  448  node server
+  449  npm start
+  450  mongoed
+  451  mongo
+  452  mongoDB
+  453  mongo
+  454  cd ..
+  455  mkdir 11
+  456  cd 11
+  457  wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | sudo apt-key add -
+  458  sudo service mongod start
+  459  mongo
+  460  db.collection.count()¶
+  461  db.auth(username, password)&quot;)
+  462  db.auth(&quot;aaaa&quot;, &quot;password&quot;)
+  463  db.auth(aaaa, password)
+  464  db.auth
+  465  db
+  466  mongo
+  467  db.getCollectionNames() db
+  468  mongo
+  469  npm stert
+  470  npm start
+  471  git config --get-all user.name
+  472  npm install -g jshint
+  473  sudo npm install -g jshint
+  474  npm install
+  475  npm start
+  476  npm watch
+  477  npm run watch
+  478  npm run build
+  479  npm start
+  480  npm test
+  481  npm start
+  482  mongo
+  483  sudo service mongod start
+  484  npm start
+  485  sudo service mongod start
+  486  npm start
+  487  mongo
+  488  sudo service mongod start
+  489  mongo
+  490  yarn start
+  491  npm  start
+  492  npm install --save @jsonforms/core
+  493  sudo npm install --save @jsonforms/core
+  494  yarn install --save @jsonforms/core
+  495  yarn add --save @jsonforms/core
+  496  yarn add  @jsonforms/core
+  497  yarn add  @jsonforms/react
+  498  yarn add  @jsonforms/material-renderers
+  499  yarn add  @jsonforms/examples
+  500  yarn add react
+  501  yarn start
+  502  npm start
+  503  sudo npm start
+  504  npm run builed
+  505  sudo npm run builed
+  506  . code
+  507  .code
+  508  npm start
+  509  npx run  start
+  510  npm run  start
+  511  python -m SimpleHTTPServer
+  512  sudo npm run  build
+  513  python -m SimpleHTTPServer
+  514  sudo npm run  build
+  515  python -m SimpleHTTPServer
+  516  sudo npm run  build
+  517  sudo npm run  start
+  518  python -m SimpleHTTPServer
+  519  JSHint: Show output
+  520  python -m SimpleHTTPServer
+  521  cd ..
+  522  python -m SimpleHTTPServer
+  523  https://github.com/eclipsesource/jsonforms-react-seed.git
+  524  git clone https://github.com/eclipsesource/jsonforms-react-seed.git
+  525  npm install
+  526  npm install
+  527  npm install -g npm
+  528  sudo npm install -g npm
+  529  npm run start
+  530  python -m SimpleHTTPServer
+  531  mkdir react
+  532  cd react
+  533  npx create-react-app my-app
+  534  cd my-app
+  535  npm create-react-app my-app
+  536  sudo npm create-react-app my-app
+  537  npx create-react-app my-app
+  538  npm i -g  create-react-app
+  539  sudo npm i -g  create-react-app
+  540  mkdir sudoko
+  541  cd sudoko
+  542  create-react-app x
+  543  npm start
+  544  yarn start
+  545  cd react
+  546  npm cache --force clean
+  547  sudo npm  start
+  548  npm cache clean
+  549  sudo npm cache clean
+  550  sudo npm cache --clean
+  551  npm cache --force clean
+  552  sudo npm cache --force clean
+  553  npx create-react-app my-app
+  554  npm run start
+  555  python -m SimpleHTTPServer
+  556  npm run start
+  557  npm run start
+  558  python -m SimpleHTTPServer
+  559  npm run start
+  560  python -m SimpleHTTPServer
+  561  npm run start
+  562  npm run eject
+  563  npm run start
+  564  npm start
+  565  yarn start
+  566  python -m SimpleHTTPServer
+  567  npm run start
+  568  npm run start
+  569  cat ~
+  570  -
+  571  cat histore
+  572  cat history
+  573  cat hestory
+  574  history
+  575  hestory
+  576  history
+  577  history cat~
+  578  history sudo cat
+  579  history sudo cat 2
+  580  LS
+  581  fs
+  582  ls
+  583  .nano max_user_watcher
+  584  nano max_user_watcher
+  585  ls
+  586  nano max_user_watches
+  587  sudo nano max_user_watches
+  588  yarn start
+  589  cat /pros
+  590  cat
+  591  cat ~
+  592  sudo ~ 
+  593  sys~ 
+  594  yarn start
+  595  cat proc/sys/fs/inotyfy
+  596  cat proc/sys/fs/inotify
+  597  sudo cat proc/sys/fs/inotify
+  598  sudo cat proc/
+  599  sudo cat proc
+  600  syscrtl
+  601  sysctl
+  602  sysctl -a
+  603  sysctl fs.inotify.max_user_watches = 8192
+  604  sysctl fs.inotify.max_user_watches = 16384
+  605  sysctl fs.inotify.max_user_watches
+  606  sudo sysctl fs.inotify.max_user_watches=16384
+  607  sysctl fs.inotify.max_user_watches
+  608  sysctl -p
+  609  sudo cat proc/sys/fs/inotify
+  610  sysctl fs.inotify.max_user_watches
+  611  sudo sysctl fs.inotify.max_user_watches=16384
+  612  sudo sysctl -p
+  613  npm run start
+  614  yarn start
+  615  npm run start
+  616  code
+  617  sysctl fs.inotify.max_user_watches
+  618  sudo sysctl fs.inotify.max_user_watches=10000
+  619  sudo sysctl -p
+  620  sysctl fs.inotify.max_user_watches
+  621  ls
+  622  tree
+  623  ls
+  624  python -m SimpleHTTPServer
+  625  code
+  626  npm
+  627  npm run start
+  628  yarn start
+  629  yarn start --offline
+  630  sysctl fs.inotify.max_user_watches
+  631  sudo sysctl fs.inotify.max_user_watches=16384
+  632  sudo sysctl -p
+  633  sysctl -h
+  634  sudo sysctl fs.inotify.max_user_watches=16384 -w
+  635  sudo sysctl fs.inotify.max_user_watches=10384 
+  636  npm run tart
+  637  npm run start
+  638  hestory
+  639  history
+<font color="#8AE234"><b>amr@amr-Satellite-C850-A826</b></font>:<font color="#729FCF"><b>~</b></font>$ ^C
+<font color="#8AE234"><b>amr@amr-Satellite-C850-A826</b></font>:<font color="#729FCF"><b>~</b></font>$ 
+</pre>

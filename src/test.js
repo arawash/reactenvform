@@ -1,7 +1,8 @@
 import React from 'react'
 import { useState } from 'react'
 import Switch from '@material-ui/core/Switch/';
-import Pickers from '@material-ui/pickers';
+// import Pickers from '@material-ui/pickers';
+
 import {
   MuiPickersUtilsProvider,
   KeyboardTimePicker,
@@ -67,17 +68,17 @@ function RTL(props) {
 
 const useStyles = makeStyles(theme => ({
   // button: {
-    // margin: theme.spacing(1),
-    // },
-    // leftIcon: {
-      // marginRight: theme.spacing(1),
-      // },
-      // rightIcon: {
-        // marginLeft: theme.spacing(1),
-        // },
-        // iconSmall: {
-          // fontSize: 20,
-          // }, Paper: {
+  // margin: theme.spacing(1),
+  // },
+  // leftIcon: {
+  // marginRight: theme.spacing(1),
+  // },
+  // rightIcon: {
+  // marginLeft: theme.spacing(1),
+  // },
+  // iconSmall: {
+  // fontSize: 20,
+  // }, Paper: {
   // padding: theme.spacing(3, 4)
   // }
 }));
@@ -93,30 +94,30 @@ const useStyles = makeStyles(theme => ({
 
 // [event.target.name] : event.target.value
 // const [state, setState] = useState({
-  // left: 0,
-  // top: 0,
-  // width: 100,
-  // height: 100,
-  // age: '',
-  // name: '',
-  // desc: '',
-  // kind: '',
-  // latitude: '',
-  // longitude: '',
+// left: 0,
+// top: 0,
+// width: 100,
+// height: 100,
+// age: '',
+// name: '',
+// desc: '',
+// kind: '',
+// latitude: '',
+// longitude: '',
 // name: '',
 // what: '',
 // });
 // const handleChange = (event) => {
-  // const thisName = event.target.name;
-  // const [values, setValues] = React.useState({
-    // setValues(
+// const thisName = event.target.name;
+// const [values, setValues] = React.useState({
+// setValues(
 // [event.target.name] = event.target.value
 // )}
 const reta = (classes, FormControl) => {
 }
 const Test = () => {
   const [selectedDate, setSelectedDate] = React.useState(new Date('2014-08-18T21:11:54'));
-  
+
   function handleDateChange(date) {
     setSelectedDate(date);
   }
@@ -125,7 +126,7 @@ const Test = () => {
   const onChange = (event) => {
     setFormControlState({ ...FormControlState, [event.target.name]: event.target.value });
     console.log(FormControlState);
-    
+
   };
   return (
     <RTL>

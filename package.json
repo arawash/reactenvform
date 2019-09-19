@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.4.0",
-    "@material-ui/icons": "^4.2.1",
+    "@material-ui/icons": "^4.4.1",
+    "@material-ui/pickers": "^3.2.6",
+    "@material-ui/system": "^4.3.3",
     "formik": "^1.5.8",
     "jss-rtl": "^0.2.3",
     "react": "^16.9.0",
@@ -22,8 +24,8 @@
     "extends": "react-app"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/npm/cli.git"
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
   },
   "browserslist": {
     "production": [

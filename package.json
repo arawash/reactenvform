@@ -25,7 +25,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
         "url": "https://github.com/arawash/reactenvformcolector.git"
+=======
+    "url": "https://github.com/arawash/reactenvform.git"
+>>>>>>> e7d35edd3bad366cde04ed54c278abbc107b0ffd
   },
   "browserslist": {
     "production": [

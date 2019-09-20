@@ -1,7 +1,7 @@
 import React from 'react';
 //import './App.css';
 import { makeStyles } from '@material-ui/styles';
-// import { Demo } from "./location";
+import { Demo } from "./position/location";
 // import Test from './test';
 // import { red } from '@material-ui/core/colors';
 // import { Formctrl } from './fomctrl'
@@ -10,7 +10,7 @@ import { makeStyles } from '@material-ui/styles';
 // import { Grow } from '@material-ui/core';
 // import { Fade } from '@material-ui/core';
 // import Basic from './formic';
-import Test from './test';
+import Test from './form/test';
 
 
 // import Box from "@material-ui/core/Box"
@@ -33,7 +33,7 @@ function App() {
       {/* <ButtonAppBar /> */}
       {/* <TodoComponent /> */}
       {/* <Formctrl /> */}
-      <Test />
+      {/* <Test /> */}
       {/* <Basic/> */}
       {/* <Demo /> */}
       {/* <BottomAppBar /> */}
